@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single" >
+
+        <item
+            android:id="@+id/nav_sawa3y"
+            android:title="صلوات السواعي" >
+            <menu>
+                <item
+                    android:id="@+id/nav_baker"
+                    android:actionLayout="@layout/spinner"
+                    android:title=" بـــــــاكــــــــــــر" />
+                <item
+                    android:id="@+id/nav_talta"
+                    android:title="الساعة الـثـالـثـة" />
+                <item
+                    android:id="@+id/nav_sata"
+                    android:title="الساعة السادسة" />
+                <item
+                    android:id="@+id/nav_tas3a"
+                    android:title="الساعة التاسعـة" />
+                <item
+                    android:id="@+id/nav_ghrob"
+                    android:title="صلاة الغــــروب" />
+                <item
+                    android:id="@+id/nav_nom"
+                    android:title="الـــــنـــــــومـــــــ" />
+            </menu>
+
+        </item>
+
+        <item
+            android:title="صلوات نصف الليل"
+            android:id="@+id/nav_noslel"  >
+            <menu>
+        <item
+            android:id="@+id/nav_noslel1"
+            android:title="الخدمة الاولي" />
+        <item
+            android:id="@+id/nav_noslel2"
+            android:title="الخدمة الثانية" />
+        <item
+            android:id="@+id/nav_noslel3"
+            android:title="الخدمة الثالثة" />
+            android:title="صلوات نصف الليل" >
+            </menu>
+
+    </item>
+        <item
+            android:id="@+id/nav_sattar"
+            android:title="صلاة الستار" />
+        <item
+        android:id="@+id/nav_salawat"
+        android:title="صلوات اخري" >
+      <menu>
+        <item
+            android:id="@+id/nav_toba"
+            android:title="صـــلاة تــــــــــوبــة" />
+        <item
+            android:id="@+id/nav_e3traf"
+            android:title="صلوات الاعتــــراف" />
+        <item
+            android:id="@+id/nav_tnawl"
+            android:title="صلوات التــنــــاول" />
+        <item
+            android:id="@+id/nav_food"
+            android:title="صلوات الطعــــــام" />
+        <item
+            android:id="@+id/nav_work"
+            android:title="صلاة قبل الـعـمـــل" />
+      </menu>
+        </item>
+    </group>
+
+
+
+
+
+
+
+</menu>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#306f86</color>
+    <color name="colorPrimaryDark">#306f86</color>
+    <color name="colorAccent">#481a69</color>
+    <color name="salawat">#870620</color>
+    <color name="sattar">#672970</color>
+    <color name="dialog">#149ff1</color>
+</resources>

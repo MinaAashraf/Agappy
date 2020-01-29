@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "480529491867",
+    "firebase_url": "https://agappy-copy-3499e.firebaseio.com",
+    "project_id": "agappy-copy-3499e",
+    "storage_bucket": "agappy-copy-3499e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480529491867:android:c0527c2cff18405f",
+        "android_client_info": {
+          "package_name": "com.mina.special.agappy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480529491867-if596c32fpqorbhdb9lkhqjdsf2b2j32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mina.special.agappy",
+            "certificate_hash": "2f4bb3c9b81ee2c2b60f707255b7732df3db5a6d"
+          }
+        },
+        {
+          "client_id": "480529491867-hu1l8r8s6upv84hg80jfp6kqq7ua9mvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWAxMpndDeFpdLuU2hJliZX_MqBDpW20o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480529491867-hu1l8r8s6upv84hg80jfp6kqq7ua9mvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
