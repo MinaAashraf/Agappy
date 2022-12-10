@@ -11,7 +11,7 @@
 
 ## Screen Shots
 
-<img src="https://user-images.githubusercontent.com/48159614/206853461-3f496da3-48c1-4b66-b9e5-42f23071a4d9.jpg" width="350" height="700">
+<img src="https://user-images.githubusercontent.com/48159614/206853461-3f496da3-48c1-4b66-b9e5-42f23071a4d9.jpg">
 
 <img src="https://user-images.githubusercontent.com/48159614/206853249-a7db5372-a24d-4adb-a98f-ae62882ca288.jpg" width="350" height="700">
 
