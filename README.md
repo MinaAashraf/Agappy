@@ -6,6 +6,9 @@
 
 ## Technologies Used:
     * Android/Java
+    * Broadcast receivers
+    * Alarm Manager
+    * Notifications
 ***
 
 
